@@ -34,7 +34,6 @@
     "HuskEntityMixin",
     "InfestedBlockMixin",
     "IronGolemEntityMixin",
-    "ItemEntityMixin",
     "LivingEntityMixin",
     "MagmaCubeEntityMixin",
     "MeleeAttackGoalMixin",
@@ -64,7 +63,6 @@
     "TheNetherBiomeCreatorMixin",
     "VindicatorEntityMixin",
     "WitchEntityMixin",
-    "WitherEntityMixin",
     "WitherSkeletonEntityMixin",
     "ZombieEntityMixin",
     "ZombifiedPiglinEntityMixin"

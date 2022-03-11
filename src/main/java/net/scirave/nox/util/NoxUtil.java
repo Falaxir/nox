@@ -29,7 +29,7 @@ import net.scirave.nox.Nox;
 
 public class NoxUtil {
 
-    public static final Tag<Item> FIREPROOF = TagRegistry.item(new Identifier("c:fireproof"));
+//    public static final Tag<Item> FIREPROOF = TagRegistry.item(new Identifier("c:fireproof"));
 
     private final static ItemStack WOOD_PICKAXE = Items.WOODEN_PICKAXE.getDefaultStack();
     private final static ItemStack WOOD_AXE = Items.WOODEN_AXE.getDefaultStack();
