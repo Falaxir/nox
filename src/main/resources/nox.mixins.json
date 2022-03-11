@@ -40,8 +40,6 @@
     "MobEntityMixin",
     "MoveControlMixin",
     "PhantomEntityMixin",
-    "PiglinBrainMixin",
-    "PiglinEntityMixin",
     "PillagerEntityMixin",
     "PotionEntityMixin",
     "PounceAtTargetMixin",
